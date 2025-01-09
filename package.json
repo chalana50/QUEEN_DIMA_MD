@@ -4,7 +4,7 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
+    "start": "pm2 start index.js --deep-monitoring --attach --QUEEN DIMA",
     "stop": "pm2 stop wabot",
     "restart": "pm2 restart wabot"
   },
