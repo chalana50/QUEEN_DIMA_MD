@@ -9,6 +9,13 @@
 </a>
 <hr>
 
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=CHALAH+TECH+SL(DARK.CYBER)" alt="">   
+</p>
+
+
+
+
+
 <hr>
 
 <a href="https://whatsapp.com/channel/0029Vb04zWSBFLgVwEvUMB1O"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-red"  width="350"></a>
