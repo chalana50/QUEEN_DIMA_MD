@@ -5,10 +5,12 @@ a simple watsapp bot  ❤
 PAIR CODE ↘
 https://sahas-md-private-pair-web.onrender.com
 
+
+
 COPY WORKFLOW CODE 
 
-name: Node.js CI
 
+name: Node.js CI
 on:
   push:
     branches:
@@ -16,7 +18,6 @@ on:
   pull_request:
     branches:
       - main
-
 jobs:
   build:
 
