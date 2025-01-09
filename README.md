@@ -10,7 +10,7 @@
 
 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂+CHALA+TECH-+𝗕𝗢𝗧.🤣;+BOT+POWERD+BY+CHALANA💕ඉතිං+කොහොමද❿😁මොකද+කරන්නෙ🇧🇷)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂+CHALA+TECH-+𝗕𝗢𝗧.🤣;+BOT+POWERD+BY+CHALANA💕ඉතිං+කොහොමද++++++++❿😁මොකද+කරන්නෙ🇧🇷)](https://git.io/typing-svg)
 
 ➹➜
 
