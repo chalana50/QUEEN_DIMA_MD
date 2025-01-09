@@ -23,6 +23,11 @@
 </a>
 <hr>
 
+## 👑 `Queen_Dima-MD BOT OWNER`👨‍💻 
+
+`⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.`
+
+
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+DIMA+MD+OWNER+CHALAH+TECH(DARK.CYBER)" alt="">   
 </p>
 
