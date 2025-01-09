@@ -1,7 +1,7 @@
 # QUEEN_DIMA_MD
-# a simple watsapp bot  ❤
+ `a simple watsapp`bot  ❤
 
-❤
+➹➜
 
  <p align="center">
 <a href="https://github.com/Chalana90/QUEEN_DIMA_MD">
