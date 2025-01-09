@@ -16,7 +16,7 @@
 
  <p align="center">
 <a href="https://github.com/Chalana90/QUEEN_DIMA_MD">
-    <img src=https://i.ibb.co/D1X49SK/3536.jpg"  width="700px">
+    <img src=https://i.ibb.co/tmB17qd/9ce26e0fad432024.jpg"  width="700px">
 </a>
 <hr>
 
