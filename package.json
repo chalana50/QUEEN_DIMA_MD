@@ -1,10 +1,10 @@
 {
-  "name": "DIMA MD",
+  "name": "CHALAH",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --DIMA",
+    "start": "pm2 start index.js --deep-monitoring --attach --",
     "stop": "pm2 stop wabot",
     "restart": "pm2 restart wabot"
   },
