@@ -1,13 +1,10 @@
 # QUEEN_DIMA_MD
-a simple watsapp bot  ❤
+# a simple watsapp bot  ❤
 
 
-PAIR CODE ↘
+# PAIR CODE ↘
 
 
-https://sahas-md-private-pair-web.onrender.com
+# https://sahas-md-private-pair-web.onrender.com
 
 
-<p align="center">
-<a href="https://github.com/CHALAH-QUEEN-DIMA-MD">
-    <img 
