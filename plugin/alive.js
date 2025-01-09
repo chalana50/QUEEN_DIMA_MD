@@ -130,9 +130,13 @@ let madeMenu = `
  ${menu.tools}
 ╰───────────●●►
 
-> *©DIMA MD FAST SPEED BOT your bot name*`
+#MY CHANNEL LINK
 
-return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/de82e3.jpg`},caption:madeMenu},{quoted: mek})
+https://whatsapp.com/channel/0029Vb04zWSBFLgVwEvUMB1O
+
+> *©DIMA MD FAST SPEED *`
+
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tmB17qd/9ce26e0fad432024.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`𝔼𝕣𝕣𝕣𝕠𝕣`)
