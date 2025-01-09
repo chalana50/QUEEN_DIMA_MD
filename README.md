@@ -13,16 +13,29 @@ https://whatsapp.com/channel/0029Vb04zWSBFLgVwEvUMB1O
 
 
 apt update
+
 apt upgrade
+
 pkg update && pkg upgrade
+
 pkg install bash
-pkg install libwebp
+
+pkg install libweb
+
 pkg install git -y
+
 pkg install nodejs -y 
+
 pkg install ffmpeg -y 
+
 pkg install wget
+
 pkg install imagemagick -y
+
 git clone https://github.com/Chalana90/QUEEN_DIMA_MD.git
 cd DIMA_MD.
+
 yarn install
+
 npm start
+
