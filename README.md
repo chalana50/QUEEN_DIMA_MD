@@ -9,6 +9,28 @@ https://whatsapp.com/channel/0029Vb04zWSBFLgVwEvUMB1O
 
 <h1 align="center">QUEEN-DIMA-MD- MultiDevice</h1>
 
+Step: 2
+    ***Extract the downloaded `.zip` file.***
+
+  Step: 3
+    ***Edit `config.js` file (enter ownernumber, session id etc...).***
+    
+  Step: 4
+    ***Go to your `termux/Ssh/Ubuntu` terminal and navigate to your folder path.***
+  ***- For Example:***
+  
+  ```
+  cd /sdcard/download/DIMA-MD
+  ```
+
+  Step: 5
+    ***Enter the followings commands in your `terminal`.***
+
+
+
+
+
+
 `TERMUX DEPLOY CODE`
 
 
