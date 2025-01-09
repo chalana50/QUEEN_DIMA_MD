@@ -1,5 +1,16 @@
-# QUEEN_DIMA_MD
- `## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂+CHALA+TECH-+𝗕𝗢𝗧.🤣;+BOT+POWERD+BY+CHALANA💕ඉතිං+කොහොමද❿😁මොකද+කරන්නෙ🇧🇷)](https://git.io/typing-svg)
+<div align="center">
+    ⏬<b>KING CHALAH</b>⏬</b>
+
+  
+<div align="center">
+</p>
+ `
+ 
+
+
+
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂+CHALA+TECH-+𝗕𝗢𝗧.🤣;+BOT+POWERD+BY+CHALANA💕ඉතිං+කොහොමද❿😁මොකද+කරන්නෙ🇧🇷)](https://git.io/typing-svg)
 
 ➹➜
 
