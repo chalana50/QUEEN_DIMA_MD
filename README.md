@@ -9,7 +9,7 @@
 </a>
 <hr>
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=CHALAH+TECH+SL(DARK.CYBER)" alt="">   
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+DIMA+MD+OWNER+CHALAH+TECH(DARK.CYBER)" alt="">   
 </p>
 
 
