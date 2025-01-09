@@ -5,7 +5,7 @@
 
  <p align="center">
 <a href="https://github.com/Chalana90/QUEEN_DIMA_MD">
-    <img src=https://i.ibb.co/4K10Gnx/4458a4534100ca25.jpg"  width="700px">
+    <img src=https://i.ibb.co/D1X49SK/3536.jpg"  width="700px">
 </a>
 <hr>
 
