@@ -13,7 +13,7 @@
 
 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂+CHALA+TECH-+𝗕𝗢𝗧.🤣;+BOT+POWERD+BY+CHALANA💕ඉතිං+කොහොමද++++++++❿😁මොකද+කරන්නෙ🇧🇷)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0917F7&width=435&lines=Hey+i+am+CHALH+TECH++%E2%9D%A4%E0%B7%84%E0%B7%99%E0%B6%BD%E0%B7%9D%E0%B7%80%E0%B7%8A+%E0%B6%89%E0%B6%AD%E0%B7%92%E0%B6%B8%E0%B7%8A+%E0%B6%B8%E0%B7%9C%E0%B6%9A%E0%B6%AF+%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%99+%E0%B6%94%E0%B6%BA%E0%B7%8F+%E0%B6%9A%E0%B7%8F%E0%B6%BD%E0%B6%AF+%E0%B6%B6%E0%B7%93%E0%B6%BD%E0%B6%AF;MY+NEW+BOT+QUEEN+DIMA+MD+)](https://git.io/typing-svg)
 
 ➹➜
 
