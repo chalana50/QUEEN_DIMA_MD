@@ -55,6 +55,7 @@ pkg install wget
 pkg install imagemagick -y
 
 git clone https://github.com/Chalana90/QUEEN_DIMA_MD.git
+
 cd DIMA_MD.
 
 yarn install
