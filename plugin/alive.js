@@ -130,7 +130,7 @@ let madeMenu = `
  ${menu.tools}
 ╰───────────●●►
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ your bot name*`
+> *©DIMA MD FAST SPEED BOT your bot name*`
 
 return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/de82e3.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
