@@ -1,10 +1,8 @@
 # QUEEN_DIMA_MD
 # a simple watsapp bot  ❤
 
+❤
 
-# PAIR CODE ↘
+COME MY CHANNEL 
 
-
- https://sahas-md-private-pair-web.onrender.com
-
-
+https://whatsapp.com/channel/0029Vb04zWSBFLgVwEvUMB1O
