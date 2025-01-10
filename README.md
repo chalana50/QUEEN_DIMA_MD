@@ -47,11 +47,7 @@
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://www.youtube.com/@CHALAH-11K)
 
 
-#DEPLOY REPLITE 
 
-Deploy.
-    <br>
-    <a href=' https://replit.com/@teamchalah/QUEENDIMAMD?s=app ' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 <br>
